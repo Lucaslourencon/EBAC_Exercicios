@@ -1,2 +1,1 @@
-# EBAC_Exercicios
-Exercicíos Feitos de cada módulo
+#  Exercicíos dos Módulos  do curso
